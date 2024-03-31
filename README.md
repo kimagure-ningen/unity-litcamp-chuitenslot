@@ -1,2 +1,2 @@
-# unity-litcamp-chuitenslot
+# 注意点スロット
 LiT! 2024春キャンプのCHUITENBYYOUで制作したスロットゲーム。
